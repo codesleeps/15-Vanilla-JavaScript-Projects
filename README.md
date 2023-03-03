@@ -1,9 +1,8 @@
 # 15-Vanilla-JavaScript-Projects
 
-
+   Source:
    Project 4 - navbar-toggle from Coding Addict - youtube channel
-
-  https://github.com/john-smilga
+   John Smilga - https://github.com/john-smilga
   
 ## Screenshots 
 
