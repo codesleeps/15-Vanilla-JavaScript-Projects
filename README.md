@@ -7,7 +7,7 @@
   
 ## Screenshots 
 
-   1666px
+   1665px
    ![Screenshot 2023-03-03 at 17 10 44](https://user-images.githubusercontent.com/125808990/222784754-c669ddea-e685-4f9d-b332-4e162e3ad66b.png)
    1175px   
    ![Screenshot 2023-03-03 at 17 11 13](https://user-images.githubusercontent.com/125808990/222785188-1c975d10-b701-4daf-95e2-4b98b43d400e.png)
