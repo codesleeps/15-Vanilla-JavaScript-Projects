@@ -1,8 +1,9 @@
-# 15-Vanilla-JavaScript-Projects
+# 15-Vanilla-JavaScript-Projects 🔥
 
-   Source:
-   Project 4 - navbar-toggle from Coding Addict - youtube channel
-   John Smilga - https://github.com/john-smilga
+Source: John Smilga - https://github.com/john-smilga ✅
+  
+Project 4 - navbar-toggle from Coding Addict - youtube channel ✅
+Project 8 - menu dynamically add elements to the page 🔥
   
 ## Screenshots 
 
