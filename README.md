@@ -2,7 +2,8 @@
 
 Source: John Smilga - https://github.com/john-smilga ✅
   
-Project 4 - navbar-toggle from Coding Addict - youtube channel ✅
+Project 4 - navbar-toggle  ✅
+
 Project 8 - menu dynamically add elements to the page 🔥
   
 ## Screenshots 
