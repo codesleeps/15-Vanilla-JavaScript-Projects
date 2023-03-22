@@ -18,7 +18,14 @@ Adding array of objects (menu) 🤖
 
 ![Screenshot 2023-03-21 at 08 47 13](https://user-images.githubusercontent.com/125808990/226768395-7111bb86-ad0c-4453-8c1e-d97ce9ad46de.png)
 
-Added new menu item, category and button 🤖
+Added new menu item, category and button for new category 🤖
 
 ![Screenshot 2023-03-21 at 23 00 40](https://user-images.githubusercontent.com/125808990/226769487-51e18510-c672-424d-89f3-a8dbffc65b2d.png)
+
+Mobile view 📲 600px
+
+![Screenshot 2023-03-22 at 00 18 10](https://user-images.githubusercontent.com/125808990/226770592-0ae5d884-9e86-4aac-aeda-18991f09ef38.png)
+
+
+
 
