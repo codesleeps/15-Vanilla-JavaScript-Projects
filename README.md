@@ -12,7 +12,7 @@ Project 8 - menu dynamically add elements to the page 🔥
 
 Mobile view 600px 📲
 
-[Mobile View](https://user-images.githubusercontent.com/125808990/222785466-04ea4d10-892e-4331-b58f-39396fe61dba.png)
+[Sidebar](https://user-images.githubusercontent.com/125808990/222785466-04ea4d10-892e-4331-b58f-39396fe61dba.png)
 
 Adding array of objects (menu) 🤖
 
