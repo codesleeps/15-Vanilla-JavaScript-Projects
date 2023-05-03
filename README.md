@@ -1,5 +1,8 @@
 # 15-Vanilla-JavaScript-Projects 🔥
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+
 Source: John Smilga - https://github.com/john-smilga ✅
 
 Video: https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=9609s 🔥 
